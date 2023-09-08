@@ -1,2 +1,2 @@
-const myStr = "I am \"double quoted\" string inside \"double quoted\"."
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."
 console.log(myStr)
