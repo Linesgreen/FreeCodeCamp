@@ -1,5 +1,5 @@
-let a=2,
-    b=3,
+let a=2.2,
+    b=3.2,
     summ,
     subtract,
     multiply,
