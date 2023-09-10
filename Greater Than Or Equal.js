@@ -13,3 +13,5 @@ function testGreaterOrEqual(val) {
   }
   
   console.log(testGreaterOrEqual(0));
+  console.log(testGreaterOrEqual(20));
+  console.log(testGreaterOrEqual(100));
