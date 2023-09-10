@@ -13,6 +13,10 @@ function caseInSwitch(val) {
       case 3: answer = "gamma";
         break;
       case 4: answer = "delta";
+
+// default используется для значений которые не подошли под case которые я указал.
+
+      default: answer = "another";
     }
   
   
