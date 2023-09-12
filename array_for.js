@@ -3,13 +3,13 @@
 
 
 const myArr = [2, 3, 4, 5, 6];
-let total = 0;
+let total1 = 0;                                         // доп переменная что бы вынести значение из цикла
 for ( let i = 0, total = 0; i < myArr.length; i++) {
       total = total + myArr[i];
-      
-      console.log(total);
+      total1 = total;                                  // выносим значение из цикла
+      console.log(total);                              // значение внутри цикла
       
 }
+console.log(total1);                                    // значение вне цикла
 
 
-// Only change code below this line
