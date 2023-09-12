@@ -1,6 +1,4 @@
-// Escape Sequences in Strings
-// Quotes are not the only characters that can be escaped inside a string.
-// Escape sequences allow you to use characters you may not otherwise be able to use in a string.
+// Задаем форматирование текста прямо в строке
 // Способ форматирования текста внутри одной строки.
 /*  Code	Output
         \'	single quote
@@ -13,5 +11,5 @@
         \f	form feed 
 */
 
-const myStr = 'FirstLine\n\t\\SecondLine\nThirdLine'; // Change this line
+const myStr = 'FirstLine\n\t\\SecondLine\nThirdLine'; 
 console.log(myStr);
