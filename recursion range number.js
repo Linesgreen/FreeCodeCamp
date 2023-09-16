@@ -12,4 +12,4 @@ function rangeOfNumbers(startNum, endNum) {
   };
 
 
-console.log(rangeOfNumbers(33,33));
+console.log(rangeOfNumbers(2,33));
