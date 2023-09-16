@@ -53,6 +53,6 @@ const contacts = [
     // Only change code above this line
 
 
-
+  }
     
   console.log(lookUpProfile("Kristian", "lastName"));
