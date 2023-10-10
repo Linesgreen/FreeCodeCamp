@@ -8,3 +8,4 @@ let result = twinkleStar; // Change this line
 
 result = twinkleStar.match(starRegex);
 console.log(result);
+
